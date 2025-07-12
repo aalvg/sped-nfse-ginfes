@@ -1,9 +1,9 @@
 {
     "name": "aalvg/sped-nfse-ginfes",
     "type": "library",
-    "description": "API para geração e comunicação de RPS e NFSe no padão Ginfes.",
+    "description": "API para geração e comunicação de RPS e NFSe no padrão Ginfes.",
     "keywords": ["nfe","nfse","sped","nfephp"],
-    "homepage": "https://github.com/jvkrypton/sped-nfse-ginfes",
+    "homepage": "https://github.com/aalvg/sped-nfse-ginfes",
     "license": ["LGPL-3.0-or-later", "GPL-3.0-or-later", "MIT"],
     "authors": [
         {
